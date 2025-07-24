@@ -1,7 +1,5 @@
 # course_text_extraction
-This repository contains scripts to extract course information from the UH Hilo and Manoa course catalogs.
-
-hilo and manoa directories contain the raw course data extracted from the course catalogs.
+This repo contains scripts to extract course information from 10 Hawaii University campuses.
 
 Course Example:
 ```
