@@ -1,9 +1,9 @@
-===== GENERAL STATISTICS =====
+## GENERAL STATISTICS 
 Total records: 15494
 Total columns: 9
 Column names: course_desc, course_number, course_prefix, course_title, dept_name, inst_ipeds, metadata, num_units, source_file
 
-===== COLUMN STATISTICS =====
+## COLUMN STATISTICS
 
 Column: course_desc
   - Non-null values: 15307 (98.79%)
@@ -63,7 +63,7 @@ Column: source_file
       leeward_courses.json: 456 (2.94%)
       kauai_courses.json: 367 (2.37%)
 
-===== SOURCE FILE STATISTICS =====
+## SOURCE FILE STATISTICS
 Total source files: 10
   - manoa_courses.json: 9055 records (58.44%)
   - hilo_courses.json: 1809 records (11.68%)
@@ -76,7 +76,7 @@ Total source files: 10
   - leeward_courses.json: 456 records (2.94%)
   - kauai_courses.json: 367 records (2.37%)
 
-===== COURSE DATA STATISTICS =====
+## COURSE DATA STATISTICS
 Top 15 course prefixes:
   - MUS: 605 courses
   - ENG: 453 courses
@@ -94,6 +94,7 @@ Top 15 course prefixes:
   - THEA: 207 courses
   - PHIL: 197 courses
 
+## DEPARTMENT STATISTICS
 Top 15 departments:
   - Music: 550 courses
   - History: 370 courses
@@ -111,6 +112,7 @@ Top 15 departments:
   - Science, Technology & Environment: 165 courses
   - Pharmacy: 164 courses
 
+## INSTITUTION IPEDS STATISTICS
 Institution IPEDS distribution:
   - 141574: 9055 courses (58.44%)
   - 141565: 1809 courses (11.68%)
